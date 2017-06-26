@@ -4,27 +4,27 @@
 <context>
     <name>ApiObject</name>
     <message>
-        <location filename="../src/backend/Api.cpp" line="98"/>
+        <location filename="../src/backend/Api.cpp" line="102"/>
         <source>Invalid platform index #%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/Api.cpp" line="121"/>
+        <location filename="../src/backend/Api.cpp" line="125"/>
         <source>Could not set game index, the current platform is undefined!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/Api.cpp" line="127"/>
+        <location filename="../src/backend/Api.cpp" line="131"/>
         <source>Invalid game index #%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/Api.cpp" line="144"/>
+        <location filename="../src/backend/Api.cpp" line="148"/>
         <source>The current platform is undefined, you can&apos;t launch any games!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/Api.cpp" line="148"/>
+        <location filename="../src/backend/Api.cpp" line="152"/>
         <source>The current game is undefined, you can&apos;t launch it!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -34,6 +34,19 @@
     <message>
         <location filename="../src/backend/api_parts/ApiMeta.cpp" line="36"/>
         <source>Data files loaded in %1ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ApiParts::Settings</name>
+    <message>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="54"/>
+        <source>Found translation for `%1`</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="74"/>
+        <source>Invalid language index #%1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -53,112 +66,112 @@
 <context>
     <name>ConfigScreen</name>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="108"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="107"/>
         <source>No gamepads connected</source>
         <translation>‮𐳙𐳐𐳙𐳆 𐳉𐳥𐳓𐳞𐳯 𐳆𐳀𐳦𐳖𐳀𐳓𐳛𐳯𐳦𐳀𐳦𐳮𐳀</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="166"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="165"/>
         <source>left back</source>
         <translation>‮𐳂𐳀𐳖 𐳏𐳁𐳦𐳤𐳜</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="177"/>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="344"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="176"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="343"/>
         <source>shoulder</source>
         <translation>‮𐳮𐳁𐳖𐳖𐳍𐳛𐳘𐳂</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="192"/>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="358"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="191"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="357"/>
         <source>trigger</source>
         <translation>‮𐳢𐳀𐳮𐳀𐳥</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="208"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="207"/>
         <source>dpad</source>
         <translation>‮𐳐𐳢𐳁𐳚𐳍𐳛𐳘𐳂𐳛𐳓</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="217"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="216"/>
         <source>up</source>
         <translation>‮𐳌𐳉𐳖</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="232"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="231"/>
         <source>down</source>
         <translation>‮𐳖𐳉</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="247"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="246"/>
         <source>left</source>
         <translation>‮𐳂𐳀𐳖𐳢𐳀</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="262"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="261"/>
         <source>right</source>
         <translation>‮𐳒𐳛𐳂𐳂𐳢𐳀</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="278"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="277"/>
         <source>left stick</source>
         <translation>‮𐳂𐳀𐳖 𐳓𐳀𐳢</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="288"/>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="451"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="287"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="450"/>
         <source>x axis</source>
         <translation>‮x 𐳦𐳉𐳙𐳍𐳉𐳗</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="303"/>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="465"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="302"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="464"/>
         <source>y axis</source>
         <translation>‮y 𐳦𐳉𐳙𐳍𐳉𐳗</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="318"/>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="479"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="317"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="478"/>
         <source>press</source>
         <translation>‮𐳖𐳉𐳚𐳛𐳘𐳁𐳤</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="333"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="332"/>
         <source>right back</source>
         <translation>‮𐳒𐳛𐳂𐳂 𐳏𐳁𐳦𐳤𐳜</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="373"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="372"/>
         <source>abxy</source>
         <translation>‮abxy</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="440"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="439"/>
         <source>right stick</source>
         <translation>‮𐳒𐳛𐳂𐳂 𐳓𐳀𐳢</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="500"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="499"/>
         <source>center</source>
         <translation>‮𐳓𐳞𐳯𐳋𐳠</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="509"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="508"/>
         <source>select</source>
         <translation>‮select</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="525"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="524"/>
         <source>guide</source>
         <translation>‮guide</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="540"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="539"/>
         <source>start</source>
         <translation>‮start</translation>
     </message>
     <message>
-        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="632"/>
+        <location filename="../src/frontend/gamepad/ConfigScreen.qml" line="631"/>
         <source>hold down to quit</source>
         <translation>‮𐳓𐳐𐳖𐳋𐳠𐳋𐳤𐳏𐳉𐳯 𐳦𐳀𐳢𐳦𐳤𐳦 𐳖𐳉𐳚𐳛𐳘𐳮𐳀</translation>
     </message>
@@ -166,32 +179,32 @@
 <context>
     <name>MainMenuPanel</name>
     <message>
-        <location filename="../src/frontend/MainMenuPanel.qml" line="43"/>
+        <location filename="../src/frontend/MainMenuPanel.qml" line="44"/>
         <source>Settings</source>
         <translation>‮𐳂𐳉𐳁𐳖𐳖𐳑𐳦𐳁𐳤𐳛𐳓</translation>
     </message>
     <message>
-        <location filename="../src/frontend/MainMenuPanel.qml" line="52"/>
+        <location filename="../src/frontend/MainMenuPanel.qml" line="54"/>
         <source>Controls</source>
         <translation>‮𐳐𐳢𐳁𐳚𐳑𐳦𐳁𐳤</translation>
     </message>
     <message>
-        <location filename="../src/frontend/MainMenuPanel.qml" line="62"/>
+        <location filename="../src/frontend/MainMenuPanel.qml" line="64"/>
         <source>Quit</source>
         <translation>‮𐳓𐳐𐳖𐳋𐳠𐳋𐳤</translation>
     </message>
     <message>
-        <location filename="../src/frontend/MainMenuPanel.qml" line="85"/>
+        <location filename="../src/frontend/MainMenuPanel.qml" line="87"/>
         <source>Shutdown</source>
         <translation>‮𐳖𐳉𐳁𐳖𐳖𐳑𐳦𐳁𐳤</translation>
     </message>
     <message>
-        <location filename="../src/frontend/MainMenuPanel.qml" line="94"/>
+        <location filename="../src/frontend/MainMenuPanel.qml" line="96"/>
         <source>Reboot</source>
         <translation>‮𐳫𐳒𐳢𐳀𐳐𐳙𐳇𐳑𐳦𐳁𐳤</translation>
     </message>
     <message>
-        <location filename="../src/frontend/MainMenuPanel.qml" line="103"/>
+        <location filename="../src/frontend/MainMenuPanel.qml" line="105"/>
         <source>Exit Pegasus</source>
         <translation>‮𐳓𐳐𐳖𐳋𐳠𐳋𐳤</translation>
     </message>
@@ -240,24 +253,16 @@
     </message>
 </context>
 <context>
-    <name>QApplication</name>
-    <message>
-        <location filename="../src/app/main.cpp" line="47"/>
-        <source>QT_LAYOUT_DIRECTION</source>
-        <translation>RTL</translation>
-    </message>
-</context>
-<context>
     <name>QObject</name>
     <message>
-        <location filename="../src/app/main.cpp" line="40"/>
+        <location filename="../src/app/main.cpp" line="42"/>
         <source>A cross platform, customizable graphical frontend for launching emulators
 and managing your game collection.</source>
         <translation>‮𐳦𐳞𐳂𐳂𐳌𐳋𐳖𐳉 𐳢𐳉𐳙𐳇𐳥𐳉𐳢𐳢𐳉 𐳉𐳖𐳋𐳢𐳏𐳉𐳦𐳟⹁‏ 𐳥𐳉𐳘𐳋𐳗𐳢𐳉 𐳥𐳀𐳂𐳏𐳀𐳦𐳜 𐳍𐳢𐳀𐳌𐳐𐳓𐳪𐳤 𐳌𐳉𐳖𐳬𐳖𐳉𐳦
 𐳒𐳁𐳦𐳋𐳓𐳎𐳭𐳒𐳦𐳉𐳘𐳋𐳚𐳉𐳇 𐳓𐳉𐳯𐳉𐳖𐳋𐳤𐳋𐳏𐳉𐳯 𐳋𐳤 𐳉𐳘𐳪𐳖𐳁𐳦𐳛𐳢𐳛𐳓 𐳏𐳀𐳥𐳙𐳁𐳖𐳀𐳦𐳁𐳏𐳛𐳯.</translation>
     </message>
     <message>
-        <location filename="../src/app/main.cpp" line="55"/>
+        <location filename="../src/app/main.cpp" line="51"/>
         <source>Sorry, you cannot create this type in QML.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -302,6 +307,14 @@ and managing your game collection.</source>
         <location filename="../src/backend/es2/Es2Systems.cpp" line="123"/>
         <source>Required parameter &lt;%1&gt; is missing or empty in a &lt;system&gt; node</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SettingsPanel</name>
+    <message>
+        <location filename="../src/frontend/settings/SettingsPanel.qml" line="41"/>
+        <source>Language</source>
+        <translation>‮𐳚𐳉𐳖𐳮</translation>
     </message>
 </context>
 </TS>
