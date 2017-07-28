@@ -40,26 +40,38 @@
 <context>
     <name>ApiParts::Settings</name>
     <message>
-        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="54"/>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="84"/>
         <source>Found translation for `%1`</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="74"/>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="104"/>
         <source>Invalid language index #%1</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ApiParts::System</name>
     <message>
-        <location filename="../src/backend/api_parts/ApiSystem.cpp" line="39"/>
-        <source>Rebooting...</source>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="136"/>
+        <source>Warning: no `%1` file found in `%2`, theme skipped</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/api_parts/ApiSystem.cpp" line="52"/>
-        <source>Shutting down...</source>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="137"/>
+        <source>Warning: there is no `%1` entry in `%2`, theme skipped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="207"/>
+        <source>Found theme: %1 (`%2`)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="222"/>
+        <source>Theme set to &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/api_parts/ApiSettings.cpp" line="239"/>
+        <source>Invalid theme index #%1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -255,66 +267,112 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/app/main.cpp" line="42"/>
+        <location filename="../src/app/main.cpp" line="119"/>
         <source>A cross platform, customizable graphical frontend for launching emulators
 and managing your game collection.</source>
+        <extracomment>try to make this less than 80 characters per line</extracomment>
         <translation>Többféle rendszerre elérhető, személyre szabható grafikus felület
 játékgyűjteményed kezeléséhez és emulátorok használatához.</translation>
     </message>
     <message>
-        <location filename="../src/app/main.cpp" line="51"/>
+        <location filename="../src/app/main.cpp" line="132"/>
         <source>Sorry, you cannot create this type in QML.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/es2/Es2Gamelist.cpp" line="38"/>
-        <source>ES2 gamelist for platform `%1` not found</source>
+        <location filename="../src/app/main.cpp" line="196"/>
+        <source>Closing Pegasus, goodbye!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/es2/Es2Gamelist.cpp" line="46"/>
-        <location filename="../src/backend/es2/Es2Systems.cpp" line="44"/>
+        <location filename="../src/backend/model_providers/Es2Metadata.cpp" line="44"/>
+        <source>gamelist for platform `%1` not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model_providers/Es2Metadata.cpp" line="51"/>
         <source>Could not open `%1`</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/es2/Es2Gamelist.cpp" line="62"/>
-        <source>Found `%1`</source>
+        <location filename="../src/backend/model_providers/Es2Metadata.cpp" line="78"/>
+        <location filename="../src/backend/model_providers/Es2PlatformList.cpp" line="79"/>
+        <source>found `%1`</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/es2/Es2Gamelist.cpp" line="111"/>
-        <location filename="../src/backend/es2/Es2Systems.cpp" line="82"/>
-        <source>Could not parse `%1`</source>
+        <location filename="../src/backend/model_providers/Es2Metadata.cpp" line="101"/>
+        <location filename="../src/backend/model_providers/Es2PlatformList.cpp" line="92"/>
+        <source>could not parse `%1`</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/es2/Es2Gamelist.cpp" line="116"/>
+        <location filename="../src/backend/model_providers/Es2Metadata.cpp" line="139"/>
+        <source>the `&lt;game&gt;` node in `%1` that ends at line #%2 has no `&lt;%3&gt;` parameter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model_providers/Es2Metadata.cpp" line="106"/>
         <source>`%1` does not have a `&lt;gameList&gt;` root node!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/es2/Es2Systems.cpp" line="37"/>
-        <source>ES2 system config not found</source>
+        <location filename="../src/backend/model_providers/Es2PlatformList.cpp" line="43"/>
+        <source>system config file not found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/es2/Es2Systems.cpp" line="87"/>
+        <location filename="../src/backend/model_providers/Es2PlatformList.cpp" line="50"/>
+        <source>could not open `%1`</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model_providers/Es2PlatformList.cpp" line="61"/>
+        <source>no systems found in `%1`</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/model_providers/Es2PlatformList.cpp" line="97"/>
         <source>`%1` does not have a `&lt;systemList&gt;` root node!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backend/es2/Es2Systems.cpp" line="123"/>
-        <source>Required parameter &lt;%1&gt; is missing or empty in a &lt;system&gt; node</source>
+        <location filename="../src/backend/model_providers/Es2PlatformList.cpp" line="132"/>
+        <source>the `&lt;system&gt;` node in `%1` that ends at line #%2 has no `&lt;%3&gt;` parameter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/ScriptRunner.cpp" line="43"/>
+        <source>Running `%1` scripts...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/ScriptRunner.cpp" line="87"/>
+        <source>[%1/%2] %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/SystemCommands.cpp" line="30"/>
+        <source>Rebooting...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/backend/SystemCommands.cpp" line="41"/>
+        <source>Shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsPanel</name>
     <message>
-        <location filename="../src/frontend/settings/SettingsPanel.qml" line="41"/>
+        <location filename="../src/frontend/settings/SettingsPanel.qml" line="42"/>
         <source>Language</source>
         <translation>Nyelv</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/settings/SettingsPanel.qml" line="51"/>
+        <source>Theme</source>
+        <translation>Téma</translation>
     </message>
 </context>
 </TS>
