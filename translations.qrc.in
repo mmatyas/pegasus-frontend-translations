@@ -1,6 +1,7 @@
 <RCC>
     <qresource prefix="/lang">
         <file>pegasus_es.qm</file>
+        <file>pegasus_fr.qm</file>
         <file>pegasus_hu.qm</file>
         <file>pegasus_hu-Hung.qm</file>
     </qresource>
