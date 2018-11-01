@@ -2,183 +2,302 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fr_FR">
 <context>
+    <name>FilePicker</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="77"/>
+        <source>Select a collection file below (collections.pegasus.txt or collections.txt).
+The directory of the file will then be added to the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FilterPanel</name>
     <message>
-        <location filename="../src/themes/pegasus-grid/filter_panel/FilterPanel.qml" line="53"/>
+        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="61"/>
         <source>Filters</source>
         <translation>Filtres</translation>
     </message>
     <message>
-        <location filename="../src/themes/pegasus-grid/filter_panel/FilterPanel.qml" line="66"/>
+        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="79"/>
         <source>title</source>
         <translation>titre</translation>
     </message>
+</context>
+<context>
+    <name>GameDirEditor</name>
     <message>
-        <location filename="../src/themes/pegasus-grid/filter_panel/FilterPanel.qml" line="81"/>
-        <source>Favorites</source>
-        <translation>Favoris</translation>
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="149"/>
+        <source>Pegasus will look for collection files (collections.pegasus.txt or collections.txt)
+in the following directories:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/themes/pegasus-grid/filter_panel/FilterPanel.qml" line="94"/>
-        <source>Multiplayer</source>
-        <translation>Multijoueur</translation>
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="220"/>
+        <source>Add new</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="231"/>
+        <source>Remove selected</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>GamepadScreen</name>
+    <name>GamepadEditor</name>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="110"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="119"/>
         <source>No gamepads connected</source>
-        <translation>Aucune manette connectée</translation>
+        <translation type="unfinished">Aucune manette connectée</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="168"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="177"/>
         <source>left back</source>
-        <translation>arrière gauche</translation>
+        <translation type="unfinished">arrière gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="179"/>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="346"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="188"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="391"/>
         <source>shoulder</source>
-        <translation>gâchette haut</translation>
+        <translation type="unfinished">gâchette haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="194"/>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="360"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="207"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="409"/>
         <source>trigger</source>
-        <translation>gâchette bas</translation>
+        <translation type="unfinished">gâchette bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="210"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="227"/>
         <source>dpad</source>
-        <translation>croix de direction</translation>
+        <translation type="unfinished">croix de direction</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="219"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="236"/>
         <source>up</source>
-        <translation>haut</translation>
+        <translation type="unfinished">haut</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="234"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="255"/>
         <source>down</source>
-        <translation>bas</translation>
+        <translation type="unfinished">bas</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="249"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="274"/>
         <source>left</source>
-        <translation>gauche</translation>
+        <translation type="unfinished">gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="264"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="293"/>
         <source>right</source>
-        <translation>droite</translation>
+        <translation type="unfinished">droite</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="280"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="313"/>
         <source>left stick</source>
-        <translation>stick gauche</translation>
+        <translation type="unfinished">stick gauche</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="290"/>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="453"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="323"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="522"/>
         <source>x axis</source>
-        <translation>axe horizontal</translation>
+        <translation type="unfinished">axe horizontal</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="305"/>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="467"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="342"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="540"/>
         <source>y axis</source>
-        <translation>axe vertical</translation>
+        <translation type="unfinished">axe vertical</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="320"/>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="481"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="361"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="558"/>
         <source>press</source>
-        <translation>appuyer</translation>
+        <translation type="unfinished">appuyer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="335"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="380"/>
         <source>right back</source>
-        <translation>arrière droit</translation>
+        <translation type="unfinished">arrière droit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="375"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="428"/>
         <source>abxy</source>
-        <translation>abxy</translation>
+        <translation type="unfinished">abxy</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="442"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="511"/>
         <source>right stick</source>
-        <translation>stick droit</translation>
+        <translation type="unfinished">stick droit</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="502"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="583"/>
         <source>center</source>
-        <translation>centre</translation>
+        <translation type="unfinished">centre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="511"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="592"/>
         <source>select</source>
-        <translation>select</translation>
+        <translation type="unfinished">select</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="527"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="612"/>
         <source>guide</source>
-        <translation>guide</translation>
+        <translation type="unfinished">guide</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="542"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="631"/>
         <source>start</source>
-        <translation>start</translation>
+        <translation type="unfinished">start</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/GamepadScreen.qml" line="634"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="727"/>
         <source>hold down to quit</source>
-        <translation>maintenir pour quitter</translation>
+        <translation type="unfinished">maintenir pour quitter</translation>
     </message>
 </context>
 <context>
     <name>GenericOkCancelDialog</name>
     <message>
-        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="164"/>
+        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="179"/>
         <source>Ok</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="196"/>
+        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="215"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
 </context>
 <context>
+    <name>HelpScreen</name>
+    <message>
+        <location filename="../src/frontend/menu/HelpScreen.qml" line="66"/>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/HelpScreen.qml" line="69"/>
+        <source>Pegasus Frontend, version &lt;tt&gt;%1&lt;/tt&gt; (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/HelpScreen.qml" line="88"/>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/HelpScreen.qml" line="91"/>
+        <source>You can find the documentation and user guide on the following address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/HelpScreen.qml" line="120"/>
+        <source>Licenses</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KeyEditor</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/KeyEditor.qml" line="54"/>
+        <source>Settings &gt; Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KeyEditorEntry</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="34"/>
+        <source>Accept/Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="35"/>
+        <source>Cancel/Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="36"/>
+        <source>Game details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="37"/>
+        <source>Filters</source>
+        <translation type="unfinished">Filtres</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="38"/>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="39"/>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="40"/>
+        <source>Scroll page up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="41"/>
+        <source>Scroll page down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="42"/>
+        <source>Main menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KeyEditorRecorder</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorRecorder.qml" line="103"/>
+        <source>Press any key now to record
+(timeout in %1 seconds)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KeyEditorResetButton</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorResetButton.qml" line="63"/>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainMenuPanel</name>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="49"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="68"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="60"/>
-        <source>Controls</source>
-        <translation>Contrôles</translation>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="79"/>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="71"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="90"/>
         <source>Quit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="77"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="96"/>
         <source>Shutdown</source>
         <translation>Eteindre</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="86"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="105"/>
         <source>Reboot</source>
         <translation>Redémarrer</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="93"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="112"/>
         <source>Exit Pegasus</source>
         <translation>Quitter Pegasus</translation>
     </message>
@@ -186,24 +305,37 @@
 <context>
     <name>NoGamesError</name>
     <message>
-        <location filename="../src/frontend/messages/NoGamesError.qml" line="42"/>
+        <location filename="../src/frontend/messages/NoGamesError.qml" line="22"/>
         <source>No games found :(</source>
         <translation>Aucun jeu trouvé :(</translation>
     </message>
     <message>
-        <location filename="../src/frontend/messages/NoGamesError.qml" line="57"/>
+        <location filename="../src/frontend/messages/NoGamesError.qml" line="23"/>
         <source>Pegasus couldn&apos;t find any games on your device. If you have not set up Pegasus yet, you can find the documentation here: &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;If you still see this message, make sure your config files are readable, exist in one of the expected locations and are in the expected format.</source>
         <translation>Pegasus n&apos;a pu trouver aucun jeu. Si vous n&apos;avez pas encore configuré Pegasus, allez voir la documentation ici: &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;Si vous voyez encore ce message, vérifiez que vos fichiers de configuration sont lisibles, et existent à l&apos;endroit prévu et dans le format attendu.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/messages/NoGamesError.qml" line="75"/>
+        <location filename="../src/frontend/messages/NoGamesError.qml" line="30"/>
         <source>Please see the log file for more details.</source>
         <translation>Veuillez voir les log pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/messages/NoGamesError.qml" line="87"/>
+        <location filename="../src/frontend/messages/NoGamesError.qml" line="31"/>
         <source>You can find it here:&lt;pre&gt;%1&lt;/pre&gt;</source>
         <translation>Vous pouvez les trouver ici: &lt;pre&gt;%1&lt;/pre&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>ProviderEditor</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="74"/>
+        <source>When looking for games, Pegasus can use the following data sources, if enabled:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="98"/>
+        <source>(nothing on this platform)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -220,31 +352,66 @@
     </message>
 </context>
 <context>
-    <name>SettingsScreen</name>
+    <name>SettingsMain</name>
     <message>
-        <location filename="../src/frontend/menu/SettingsScreen.qml" line="49"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="59"/>
         <source>Settings</source>
-        <translation>Paramètres</translation>
+        <translation type="unfinished">Paramètres</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/SettingsScreen.qml" line="89"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="106"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="115"/>
         <source>Language</source>
-        <translation>Langue</translation>
+        <translation type="unfinished">Langue</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/SettingsScreen.qml" line="109"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="130"/>
         <source>Theme</source>
-        <translation>Thème</translation>
+        <translation type="unfinished">Thème</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/SettingsScreen.qml" line="129"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
         <source>Fullscreen mode</source>
-        <translation>Plein écran</translation>
+        <translation type="unfinished">Plein écran</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/SettingsScreen.qml" line="130"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="146"/>
         <source>On some platforms this setting may have no effect</source>
-        <translation>Sur certaines plate-formes ce paramètre peut n&apos;avoir aucun effet</translation>
+        <translation type="unfinished">Sur certaines plate-formes ce paramètre peut n&apos;avoir aucun effet</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="159"/>
+        <source>Controls</source>
+        <translation type="unfinished">Contrôles</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="165"/>
+        <source>Change controls...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="178"/>
+        <source>Change gamepad layout...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="189"/>
+        <source>Gaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="194"/>
+        <source>Set game directories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="206"/>
+        <source>Enable/disable data sources...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -261,44 +428,32 @@
     </message>
 </context>
 <context>
-    <name>SplashScreen</name>
+    <name>SplashLayer</name>
     <message>
-        <location filename="../src/frontend/SplashScreen.qml" line="53"/>
-        <source>games
-found</source>
-        <translation>jeux
-trouvés</translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/SplashScreen.qml" line="87"/>
-        <source>looking for games</source>
-        <translation>recherche de jeux</translation>
-    </message>
-    <message>
-        <location filename="../src/frontend/SplashScreen.qml" line="113"/>
-        <source>looking for metadata</source>
-        <translation>recherche de metadata</translation>
+        <location filename="../src/frontend/SplashLayer.qml" line="117"/>
+        <source>%1 games found</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ThemeError</name>
     <message>
-        <location filename="../src/frontend/messages/ThemeError.qml" line="42"/>
+        <location filename="../src/frontend/messages/ThemeError.qml" line="22"/>
         <source>Theme loading failed :(</source>
         <translation>Le chargement du thème a échoué :(</translation>
     </message>
     <message>
-        <location filename="../src/frontend/messages/ThemeError.qml" line="57"/>
+        <location filename="../src/frontend/messages/ThemeError.qml" line="23"/>
         <source>Pegasus tried to load the selected theme (%1), but failed. This may happen when you try to load an outdated theme, or when there&apos;s a bug in its code.</source>
         <translation>Pegasus a essayé de charger le thème sélectionné (%1) mais a échoué. Cela peut arriver si vous essayez de charger un ancien thème, ou si il y a un bug dans son code.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/messages/ThemeError.qml" line="73"/>
+        <location filename="../src/frontend/messages/ThemeError.qml" line="28"/>
         <source>For now, please select a different theme from the main menu.</source>
         <translation>Pour le moment, veuillez sélectionner un autre thème dans le menu principal.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/messages/ThemeError.qml" line="85"/>
+        <location filename="../src/frontend/messages/ThemeError.qml" line="29"/>
         <source>You might find more details in the log file:&lt;pre&gt;%1&lt;/pre&gt;</source>
         <translation>Vous pouvez trouver plus de détails dans les logs : &lt;pre&gt;%1&lt;/pre&gt;</translation>
     </message>
