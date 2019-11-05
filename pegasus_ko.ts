@@ -4,22 +4,21 @@
 <context>
     <name>FilePicker</name>
     <message>
-        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="77"/>
-        <source>Select a collection file below (collections.pegasus.txt or collections.txt).
+        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="79"/>
+        <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
-        <translation>아래에서 컬렉션 파일을 선택하십시오 (collections.pegasus.txt 또는 collections.txt)
-파일 디렉토리가 이후 목록에 추가됩니다.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FilterPanel</name>
     <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="61"/>
+        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="56"/>
         <source>Filters</source>
         <translation>필터</translation>
     </message>
     <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="79"/>
+        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="74"/>
         <source>title</source>
         <translation>이름</translation>
     </message>
@@ -27,19 +26,18 @@ The directory of the file will then be added to the list.</source>
 <context>
     <name>GameDirEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="149"/>
-        <source>Pegasus will look for collection files (collections.pegasus.txt or collections.txt)
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="158"/>
+        <source>Pegasus will look for collection files (metadata.pegasus.txt or metadata.txt)
 in the following directories:</source>
-        <translation>Pegasus가 다음 경로의 컬렉션 파일(collections.pegasus.txt 또는 collections.txt)을
-검색하게 됩니다:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="220"/>
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="238"/>
         <source>Add new</source>
         <translation>신규 추가</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="231"/>
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="249"/>
         <source>Remove selected</source>
         <translation>선택 항목 삭제</translation>
     </message>
@@ -47,112 +45,112 @@ in the following directories:</source>
 <context>
     <name>GamepadEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="119"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="114"/>
         <source>No gamepads connected</source>
         <translation>연결된 게임패드가 없음</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="177"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="164"/>
         <source>left back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="188"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="391"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="175"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="378"/>
         <source>shoulder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="207"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="409"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="194"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="396"/>
         <source>trigger</source>
         <translation>트리거</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="227"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="214"/>
         <source>dpad</source>
         <translation>D패드</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="236"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="223"/>
         <source>up</source>
         <translation>위</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="255"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="242"/>
         <source>down</source>
         <translation>아래</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="274"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="261"/>
         <source>left</source>
         <translation>왼쪽</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="293"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="280"/>
         <source>right</source>
         <translation>오른쪽</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="313"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="300"/>
         <source>left stick</source>
         <translation>왼쪽 스틱</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="323"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="522"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="310"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="509"/>
         <source>x axis</source>
         <translation>X축</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="342"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="540"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="329"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="527"/>
         <source>y axis</source>
         <translation>Y축</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="361"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="558"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="348"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="545"/>
         <source>press</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="380"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="367"/>
         <source>right back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="428"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="415"/>
         <source>abxy</source>
         <translation>ABXY</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="511"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="498"/>
         <source>right stick</source>
         <translation>오른쪽 스틱</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="583"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="570"/>
         <source>center</source>
         <translation>가운데</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="592"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="579"/>
         <source>select</source>
         <translation>셀렉트</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="612"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="599"/>
         <source>guide</source>
         <translation>가이드</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="631"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="618"/>
         <source>start</source>
         <translation>스타트</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="727"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="714"/>
         <source>hold down to quit</source>
         <translation>길게 누르면 종료</translation>
     </message>
@@ -160,14 +158,22 @@ in the following directories:</source>
 <context>
     <name>GenericOkCancelDialog</name>
     <message>
-        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="179"/>
+        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="160"/>
         <source>Ok</source>
         <translation>확인</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="215"/>
+        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="196"/>
         <source>Cancel</source>
         <translation>취소</translation>
+    </message>
+</context>
+<context>
+    <name>GenericOkDialog</name>
+    <message>
+        <location filename="../src/frontend/dialogs/GenericOkDialog.qml" line="136"/>
+        <source>Ok</source>
+        <translation type="unfinished">확인</translation>
     </message>
 </context>
 <context>
@@ -201,7 +207,7 @@ in the following directories:</source>
 <context>
     <name>KeyEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/KeyEditor.qml" line="54"/>
+        <location filename="../src/frontend/menu/settings/KeyEditor.qml" line="55"/>
         <source>Settings &gt; Controls</source>
         <translation>설정 &gt; 컨트롤</translation>
     </message>
@@ -214,42 +220,42 @@ in the following directories:</source>
         <translation>수락/선택</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="35"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="37"/>
         <source>Cancel/Back</source>
         <translation>취소/이전</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="36"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="40"/>
         <source>Game details</source>
         <translation>게임 세부정보</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="37"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="43"/>
         <source>Filters</source>
         <translation>필터</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="38"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="46"/>
         <source>Next page</source>
         <translation>다음 페이지</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="39"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="49"/>
         <source>Previous page</source>
         <translation>이전 페이지</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="40"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="52"/>
         <source>Scroll page up</source>
         <translation>위로 스크롤</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="41"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="55"/>
         <source>Scroll page down</source>
         <translation>아래로 스크롤</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="42"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="58"/>
         <source>Main menu</source>
         <translation>메인 메뉴</translation>
     </message>
@@ -257,7 +263,7 @@ in the following directories:</source>
 <context>
     <name>KeyEditorRecorder</name>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorRecorder.qml" line="103"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorRecorder.qml" line="107"/>
         <source>Press any key now to record
 (timeout in %1 seconds)</source>
         <translation>아무키나 누르면 기록
@@ -306,6 +312,14 @@ in the following directories:</source>
     </message>
 </context>
 <context>
+    <name>MultifileSelector</name>
+    <message>
+        <location filename="../src/frontend/dialogs/MultifileSelector.qml" line="79"/>
+        <source>This game has multiple entries, which one would you like to launch?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NoGamesError</name>
     <message>
         <location filename="../src/frontend/messages/NoGamesError.qml" line="22"/>
@@ -331,12 +345,12 @@ in the following directories:</source>
 <context>
     <name>ProviderEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="74"/>
+        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="83"/>
         <source>When looking for games, Pegasus can use the following data sources, if enabled:</source>
         <translation>게임을 찾으신다면 Pegasus는 다음의 데이터 소스를 이용할 수 있습니다:</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="98"/>
+        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="107"/>
         <source>(nothing on this platform)</source>
         <translation>(현재 플랫폼에는 아무것도 없음)</translation>
     </message>
@@ -355,64 +369,87 @@ in the following directories:</source>
     </message>
 </context>
 <context>
+    <name>ReloadQuestion</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="21"/>
+        <source>Reload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="22"/>
+        <source>Would you like to reload the game list now? This may take some time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingsMain</name>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="59"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="60"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="106"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="107"/>
         <source>General</source>
         <translation>일반</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="115"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="116"/>
         <source>Language</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="130"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="131"/>
         <source>Theme</source>
         <translation>테마</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="146"/>
         <source>Fullscreen mode</source>
         <translation>전체화면 모드</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="146"/>
-        <source>On some platforms this setting may have no effect</source>
-        <translation>일부 플랫폼에서는 설정이 영향을 주지 않을 수 있음</translation>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="147"/>
+        <source>On some platforms this setting may have no effect.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="159"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="160"/>
         <source>Controls</source>
         <translation>컨트롤</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="165"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="166"/>
         <source>Change controls...</source>
         <translation>컨트롤 변경...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="178"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="179"/>
         <source>Change gamepad layout...</source>
         <translation>게임패드 레이아웃 변경...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="189"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="192"/>
+        <source>Enable mouse support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="193"/>
+        <source>By default the cursor is visible if there are any pointer devices connected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="206"/>
         <source>Gaming</source>
         <translation>게이밍</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="194"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="211"/>
         <source>Set game directories...</source>
         <translation>게임 디렉토리 설정...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="223"/>
         <source>Enable/disable data sources...</source>
         <translation>데이터 소스 사용/해제...</translation>
     </message>
@@ -459,6 +496,14 @@ in the following directories:</source>
         <location filename="../src/frontend/messages/ThemeError.qml" line="29"/>
         <source>You might find more details in the log file:&lt;pre&gt;%1&lt;/pre&gt;</source>
         <translation>로그파일에서 더 자세한 정보를 확인할 수 있습니다:&lt;pre&gt;%1&lt;/pre&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <location filename="../src/frontend/main.qml" line="199"/>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
