@@ -4,6 +4,7 @@
         <file>pegasus_es.qm</file>
         <file>pegasus_fr.qm</file>
         <file>pegasus_hu.qm</file>
+        <file>pegasus_ko.qm</file>
         <file>pegasus_pt-BR.qm</file>
         <file>pegasus_ru.qm</file>
     </qresource>

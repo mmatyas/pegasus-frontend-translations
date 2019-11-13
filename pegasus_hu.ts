@@ -4,22 +4,22 @@
 <context>
     <name>FilePicker</name>
     <message>
-        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="77"/>
-        <source>Select a collection file below (collections.pegasus.txt or collections.txt).
+        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="79"/>
+        <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
-        <translation>Válassz ki egy gyűjtemény-fájlt (collections.pegasus.txt vagy collections.txt).
+        <translation>Válassz ki egy gyűjtemény-fájlt (metadata.pegasus.txt vagy metadata.txt).
 Ennek a mappája lesz hozzáadva a listához.</translation>
     </message>
 </context>
 <context>
     <name>FilterPanel</name>
     <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="61"/>
+        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="56"/>
         <source>Filters</source>
         <translation>Szűrő</translation>
     </message>
     <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="79"/>
+        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="74"/>
         <source>title</source>
         <translation>cím</translation>
     </message>
@@ -27,19 +27,19 @@ Ennek a mappája lesz hozzáadva a listához.</translation>
 <context>
     <name>GameDirEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="149"/>
-        <source>Pegasus will look for collection files (collections.pegasus.txt or collections.txt)
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="158"/>
+        <source>Pegasus will look for collection files (metadata.pegasus.txt or metadata.txt)
 in the following directories:</source>
-        <translation>Az alábbi mappákban fog a Pegasus gyűjtemény-fájlokat keresni
-(collections.pegasus.txt vagy collections.txt):</translation>
+        <translation>Az alábbi mappákban fog a program gyűjtemény-fájlokat keresni
+(metadata.pegasus.txt vagy metadata.txt):</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="220"/>
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="238"/>
         <source>Add new</source>
         <translation>Hozzáadás</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="231"/>
+        <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="249"/>
         <source>Remove selected</source>
         <translation>Kijelöltek törlése</translation>
     </message>
@@ -47,112 +47,112 @@ in the following directories:</source>
 <context>
     <name>GamepadEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="119"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="114"/>
         <source>No gamepads connected</source>
         <translation>Nincs gamepad csatlakoztatva</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="177"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="164"/>
         <source>left back</source>
         <translation>bal hátsó</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="188"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="391"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="175"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="378"/>
         <source>shoulder</source>
         <translation>vállgomb</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="207"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="409"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="194"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="396"/>
         <source>trigger</source>
         <translation>ravasz</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="227"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="214"/>
         <source>dpad</source>
         <translation>iránygombok</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="236"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="223"/>
         <source>up</source>
         <translation>fel</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="255"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="242"/>
         <source>down</source>
         <translation>le</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="274"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="261"/>
         <source>left</source>
         <translation>balra</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="293"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="280"/>
         <source>right</source>
         <translation>jobbra</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="313"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="300"/>
         <source>left stick</source>
         <translation>bal kar</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="323"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="522"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="310"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="509"/>
         <source>x axis</source>
         <translation>x tengely</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="342"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="540"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="329"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="527"/>
         <source>y axis</source>
         <translation>y tengely</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="361"/>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="558"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="348"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="545"/>
         <source>press</source>
         <translation>lenyomás</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="380"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="367"/>
         <source>right back</source>
         <translation>jobb hátsó</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="428"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="415"/>
         <source>abxy</source>
         <translation>abxy</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="511"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="498"/>
         <source>right stick</source>
         <translation>jobb kar</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="583"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="570"/>
         <source>center</source>
         <translation>közép</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="592"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="579"/>
         <source>select</source>
         <translation>select</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="612"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="599"/>
         <source>guide</source>
         <translation>guide</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="631"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="618"/>
         <source>start</source>
         <translation>start</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="727"/>
+        <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="714"/>
         <source>hold down to quit</source>
         <translation>kilépéshez tartsd lenyomva</translation>
     </message>
@@ -160,14 +160,22 @@ in the following directories:</source>
 <context>
     <name>GenericOkCancelDialog</name>
     <message>
-        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="179"/>
+        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="160"/>
         <source>Ok</source>
         <translation>Rendben</translation>
     </message>
     <message>
-        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="215"/>
+        <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="196"/>
         <source>Cancel</source>
         <translation>Mégse</translation>
+    </message>
+</context>
+<context>
+    <name>GenericOkDialog</name>
+    <message>
+        <location filename="../src/frontend/dialogs/GenericOkDialog.qml" line="136"/>
+        <source>Ok</source>
+        <translation>Rendben</translation>
     </message>
 </context>
 <context>
@@ -201,7 +209,7 @@ in the following directories:</source>
 <context>
     <name>KeyEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/KeyEditor.qml" line="54"/>
+        <location filename="../src/frontend/menu/settings/KeyEditor.qml" line="55"/>
         <source>Settings &gt; Controls</source>
         <translation>Beállítások &gt; Irányítás</translation>
     </message>
@@ -214,42 +222,42 @@ in the following directories:</source>
         <translation>Kiválasztás/Rendben</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="35"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="37"/>
         <source>Cancel/Back</source>
         <translation>Vissza/Mégse</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="36"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="40"/>
         <source>Game details</source>
         <translation>Részletek</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="37"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="43"/>
         <source>Filters</source>
         <translation>Szűrés</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="38"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="46"/>
         <source>Next page</source>
         <translation>Következő oldal</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="39"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="49"/>
         <source>Previous page</source>
         <translation>Előző oldal</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="40"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="52"/>
         <source>Scroll page up</source>
         <translation>Görgetés felfele</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="41"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="55"/>
         <source>Scroll page down</source>
         <translation>Görgetés lefele</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="42"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="58"/>
         <source>Main menu</source>
         <translation>Fömenü</translation>
     </message>
@@ -257,7 +265,7 @@ in the following directories:</source>
 <context>
     <name>KeyEditorRecorder</name>
     <message>
-        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorRecorder.qml" line="103"/>
+        <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorRecorder.qml" line="107"/>
         <source>Press any key now to record
 (timeout in %1 seconds)</source>
         <translation>Nyomd le bármelyik gombot a rögzítéshez
@@ -306,6 +314,14 @@ in the following directories:</source>
     </message>
 </context>
 <context>
+    <name>MultifileSelector</name>
+    <message>
+        <location filename="../src/frontend/dialogs/MultifileSelector.qml" line="79"/>
+        <source>This game has multiple entries, which one would you like to launch?</source>
+        <translation>Ez a játék több elemből áll, melyiket szeretnéd elindítani?</translation>
+    </message>
+</context>
+<context>
     <name>NoGamesError</name>
     <message>
         <location filename="../src/frontend/messages/NoGamesError.qml" line="22"/>
@@ -331,12 +347,12 @@ in the following directories:</source>
 <context>
     <name>ProviderEditor</name>
     <message>
-        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="74"/>
+        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="83"/>
         <source>When looking for games, Pegasus can use the following data sources, if enabled:</source>
         <translation>Ha bekapcsolod, az alábbi helyekről is tud a Pegasus játékokat gyűjteni:</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="98"/>
+        <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="107"/>
         <source>(nothing on this platform)</source>
         <translation>(ezen a platformon üres)</translation>
     </message>
@@ -355,64 +371,87 @@ in the following directories:</source>
     </message>
 </context>
 <context>
+    <name>ReloadQuestion</name>
+    <message>
+        <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="21"/>
+        <source>Reload</source>
+        <translation>Újratöltés</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="22"/>
+        <source>Would you like to reload the game list now? This may take some time.</source>
+        <translation>Szeretnéd most frissíteni a játékok listáját? Ez eltarthat egy darabig.</translation>
+    </message>
+</context>
+<context>
     <name>SettingsMain</name>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="59"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="60"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="106"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="107"/>
         <source>General</source>
         <translation>Általános</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="115"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="116"/>
         <source>Language</source>
         <translation>Nyelv</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="130"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="131"/>
         <source>Theme</source>
         <translation>Téma</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="145"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="146"/>
         <source>Fullscreen mode</source>
         <translation>Teljes képernyős mód</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="146"/>
-        <source>On some platforms this setting may have no effect</source>
-        <translation>Bizonyos rendszereken ennek a beállításnak nincs hatása</translation>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="147"/>
+        <source>On some platforms this setting may have no effect.</source>
+        <translation>Bizonyos rendszereken ennek a beállításnak nincs hatása.</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="159"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="160"/>
         <source>Controls</source>
         <translation>Irányítás</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="165"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="166"/>
         <source>Change controls...</source>
         <translation>Gombok módosítása...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="178"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="179"/>
         <source>Change gamepad layout...</source>
         <translation>Gamepad kiosztás módosítása...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="189"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="192"/>
+        <source>Enable mouse support</source>
+        <translation>Egértámogatás</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="193"/>
+        <source>By default the cursor is visible if there are any pointer devices connected.</source>
+        <translation>Alapesetben a nyíl mindig megjelenik ha egy csatlakoztatott eszköz használható egérként.</translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="206"/>
         <source>Gaming</source>
         <translation>Játékok</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="194"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="211"/>
         <source>Set game directories...</source>
         <translation>Vizsgált mappák...</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="206"/>
+        <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="223"/>
         <source>Enable/disable data sources...</source>
         <translation>Külső források...</translation>
     </message>
@@ -459,6 +498,14 @@ in the following directories:</source>
         <location filename="../src/frontend/messages/ThemeError.qml" line="29"/>
         <source>You might find more details in the log file:&lt;pre&gt;%1&lt;/pre&gt;</source>
         <translation>A naplófájlban lehet, hogy több információt is látsz:&lt;pre&gt;%1&lt;/pre&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <location filename="../src/frontend/main.qml" line="199"/>
+        <source>Error</source>
+        <translation>Hiba</translation>
     </message>
 </context>
 </TS>
