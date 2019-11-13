@@ -7,7 +7,8 @@
         <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="79"/>
         <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um arquivo de coleção abaixo (metadata.pegasus.txt ou metadata.txt).
+O diretório do arquivo será adicionado a lista.</translation>
     </message>
 </context>
 <context>
@@ -29,7 +30,8 @@ The directory of the file will then be added to the list.</source>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="158"/>
         <source>Pegasus will look for collection files (metadata.pegasus.txt or metadata.txt)
 in the following directories:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegasus vai pesquisar por arquivos de coleção (metadata.pegasus.txt ou metadata.txt)
+nos seguintes diretórios:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="238"/>
@@ -173,7 +175,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkDialog.qml" line="136"/>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -316,7 +318,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/dialogs/MultifileSelector.qml" line="79"/>
         <source>This game has multiple entries, which one would you like to launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse jogo possui multiplas entradas, qual delas você gostaria de abrir?</translation>
     </message>
 </context>
 <context>
@@ -373,12 +375,12 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="21"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="22"/>
         <source>Would you like to reload the game list now? This may take some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você gostaria de recarregar a lista de jogos agora? Isso pode levar algum tempo.</translation>
     </message>
 </context>
 <context>
@@ -411,7 +413,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="147"/>
         <source>On some platforms this setting may have no effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Em algumas plataformas essa configuração pode não ter efeito.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="160"/>
@@ -431,12 +433,12 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="192"/>
         <source>Enable mouse support</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar suporte ao mouse</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="193"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por padrão, o cursor é visível se existe algum dispositivo de ponteiro conectado.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="206"/>
@@ -503,7 +505,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/main.qml" line="199"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro</translation>
     </message>
 </context>
 </TS>
