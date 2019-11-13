@@ -7,7 +7,7 @@
         <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="79"/>
         <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
-        <translation>Selecione um arquivo de coleção abaixo (metada.pegasus.txt ou metadata.txt).
+        <translation>Selecione um arquivo de coleção abaixo (metadata.pegasus.txt ou metadata.txt).
 O diretório do arquivo será adicionado a lista.</translation>
     </message>
 </context>
@@ -30,7 +30,7 @@ O diretório do arquivo será adicionado a lista.</translation>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="158"/>
         <source>Pegasus will look for collection files (metadata.pegasus.txt or metadata.txt)
 in the following directories:</source>
-        <translation>Pegasus vai pesquisar por arquivos de coleção (metada.pegasus.txt ou metadata.txt)
+        <translation>Pegasus vai pesquisar por arquivos de coleção (metadata.pegasus.txt ou metadata.txt)
 nos seguintes diretórios:</translation>
     </message>
     <message>
