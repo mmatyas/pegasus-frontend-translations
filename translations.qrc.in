@@ -7,5 +7,6 @@
         <file>pegasus_ko.qm</file>
         <file>pegasus_pt-BR.qm</file>
         <file>pegasus_ru.qm</file>
+        <file>pegasus_zh.qm</file>
     </qresource>
 </RCC>
