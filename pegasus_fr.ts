@@ -7,7 +7,7 @@
         <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="79"/>
         <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un fichier de configuration (metadata.pegasus.txt ou metadata.txt). Le répertoire où se trouve le fichier sera ajouté à la liste.</translation>
     </message>
 </context>
 <context>
@@ -29,12 +29,12 @@ The directory of the file will then be added to the list.</source>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="158"/>
         <source>Pegasus will look for collection files (metadata.pegasus.txt or metadata.txt)
 in the following directories:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegasus va chercher des fichiers de configuration (metadata.pegasus.txt ou metadata.txt) dans les répertoires suivants:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="238"/>
         <source>Add new</source>
-        <translation>Ajouter à nouveau</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="249"/>
@@ -47,7 +47,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="114"/>
         <source>No gamepads connected</source>
-        <translation>Aucune manettes connectées</translation>
+        <translation>Aucune manette connectée</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="164"/>
@@ -173,7 +173,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkDialog.qml" line="136"/>
         <source>Ok</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -316,7 +316,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/dialogs/MultifileSelector.qml" line="79"/>
         <source>This game has multiple entries, which one would you like to launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce jeu a plusieurs choix d&apos;amorçage, lequel voulez-vous lancer ?</translation>
     </message>
 </context>
 <context>
@@ -347,7 +347,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="83"/>
         <source>When looking for games, Pegasus can use the following data sources, if enabled:</source>
-        <translation>Lors de la recherche de jeux, Pegasus peut utiliser les sources de données suivantes, si activé</translation>
+        <translation>Lors de la recherche de jeux, Pegasus peut utiliser les sources de données suivantes, si activé:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="107"/>
@@ -373,12 +373,12 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="21"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Recharger</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="22"/>
         <source>Would you like to reload the game list now? This may take some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous recharger la liste de jeux ? Cela pourrait prendre un peu de temps.</translation>
     </message>
 </context>
 <context>
@@ -411,7 +411,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="147"/>
         <source>On some platforms this setting may have no effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour certaines consoles ce paramètre pourrait ne pas avoir d&apos;effet.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="160"/>
@@ -431,12 +431,12 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="192"/>
         <source>Enable mouse support</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer la support des souris</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="193"/>
         <source>By default the cursor is visible if there are any pointer devices connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Par défaut le curseur est visible si aucune dispositif de pointage n&apos;est connecté.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="206"/>
@@ -503,7 +503,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/main.qml" line="199"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur</translation>
     </message>
 </context>
 </TS>
