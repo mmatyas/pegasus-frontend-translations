@@ -8,7 +8,7 @@
         <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
         <translation>請選擇載入文件（metadata.pegasus.txt 或 metadata.txt）。
-把該文件的目錄並加入至列表中。</translation>
+或將該文件的目錄加入至列表中。</translation>
     </message>
 </context>
 <context>
