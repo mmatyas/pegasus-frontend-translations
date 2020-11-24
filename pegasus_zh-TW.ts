@@ -187,7 +187,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="69"/>
         <source>Pegasus Frontend, version &lt;tt&gt;%1&lt;/tt&gt; (%2)</source>
-        <translation type=>Pegasus 前導器版本 &lt;tt&gt;%1&lt;/tt&gt; (%2)</translation>
+        <translation>Pegasus 前導器版本 &lt;tt&gt;%1&lt;/tt&gt; (%2)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="88"/>
