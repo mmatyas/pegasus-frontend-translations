@@ -183,12 +183,12 @@ u sljedećim direktorijima:</translation>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="66"/>
         <source>About</source>
-        <translation>O</translation>
+        <translation>O Softveru</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="69"/>
         <source>Pegasus Frontend, version &lt;tt&gt;%1&lt;/tt&gt; (%2)</source>
-        <translation>Pegasus Predkraj, verzija &lt;tt&gt;%1&lt;/tt&gt; (%2)</translation>
+        <translation>Pegasus Frontend, verzija &lt;tt&gt;%1&lt;/tt&gt; (%2)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="88"/>
@@ -198,7 +198,7 @@ u sljedećim direktorijima:</translation>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="91"/>
         <source>You can find the documentation and user guide on the following address:</source>
-        <translation>Možete pronaći dokumentaciju i korisnički vodič na sljedećoj adresi</translation>
+        <translation>Možete pronaći dokumentaciju i korisnički vodič na sljedećoj adresi:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="120"/>
@@ -428,7 +428,7 @@ u sljedećim direktorijima:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="179"/>
         <source>Change gamepad layout...</source>
-        <translation>Promijenite raspored džojstika ...</translation>
+        <translation>Promijenite raspored džojstika...</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="192"/>
