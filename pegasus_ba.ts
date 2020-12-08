@@ -60,7 +60,7 @@ u sljedećim direktorijima:</translation>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="175"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="378"/>
         <source>shoulder</source>
-        <translation>dugme na ramenu</translation>
+        <translation>rame</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="194"/>
