@@ -134,22 +134,22 @@ in den folgenden Verzeichnissen:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="570"/>
         <source>center</source>
-        <translation>Mittelknopf</translation>
+        <translation>Zentrum</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="579"/>
         <source>select</source>
-        <translation>Auswahlknopf</translation>
+        <translation>Selekt</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="599"/>
         <source>guide</source>
-        <translation>Führungsknopf</translation>
+        <translation>Führer</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="618"/>
         <source>start</source>
-        <translation>Startknopf</translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="714"/>
@@ -175,7 +175,7 @@ in den folgenden Verzeichnissen:</translation>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkDialog.qml" line="136"/>
         <source>Ok</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -188,7 +188,7 @@ in den folgenden Verzeichnissen:</translation>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="69"/>
         <source>Pegasus Frontend, version &lt;tt&gt;%1&lt;/tt&gt; (%2)</source>
-        <translation>Pegasus Frontend, Ausführung &lt;tt&gt;%1&lt;/tt&gt; (%2)</translation>
+        <translation>Pegasus Frontend, Version &lt;tt&gt;%1&lt;/tt&gt; (%2)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="88"/>
