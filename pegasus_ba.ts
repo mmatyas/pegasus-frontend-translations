@@ -134,27 +134,27 @@ u sljedećim direktorijima:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="570"/>
         <source>center</source>
-        <translation>srednje dugme</translation>
+        <translation>centar</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="579"/>
         <source>select</source>
-        <translation>odabirno dugme</translation>
+        <translation>selekt</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="599"/>
         <source>guide</source>
-        <translation>vodično dugme</translation>
+        <translation>vodič</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="618"/>
         <source>start</source>
-        <translation>početno dugme</translation>
+        <translation>start</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="714"/>
         <source>hold down to quit</source>
-        <translation>pritisni da izađeš</translation>
+        <translation>drži dole da izađeš</translation>
     </message>
 </context>
 <context>
