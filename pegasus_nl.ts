@@ -134,27 +134,27 @@ in de volgende mappen:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="570"/>
         <source>center</source>
-        <translation>middel-knop</translation>
+        <translation>centrum</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="579"/>
         <source>select</source>
-        <translation>select-knop</translation>
+        <translation>select</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="599"/>
         <source>guide</source>
-        <translation>gids-knop</translation>
+        <translation>gids</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="618"/>
         <source>start</source>
-        <translation>start-knop</translation>
+        <translation>start</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="714"/>
         <source>hold down to quit</source>
-        <translation>ingedrukt houden om te beëindigen</translation>
+        <translation>omlaag ingedrukt houden om terug te gaan</translation>
     </message>
 </context>
 <context>
