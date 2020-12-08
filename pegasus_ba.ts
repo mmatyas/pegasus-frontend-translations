@@ -54,7 +54,7 @@ u sljedećim direktorijima:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="164"/>
         <source>left back</source>
-        <translation>lijevo dugme iza</translation>
+        <translation>lijevo iza</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="175"/>
@@ -119,7 +119,7 @@ u sljedećim direktorijima:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="367"/>
         <source>right back</source>
-        <translation>desno dugme iza</translation>
+        <translation>desno iza</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="415"/>
