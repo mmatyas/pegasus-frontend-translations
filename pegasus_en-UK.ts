@@ -36,12 +36,12 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="238"/>
         <source>Add new</source>
-        <translation>Add a new directory</translation>
+        <translation>Add new</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="249"/>
         <source>Remove selected</source>
-        <translation>Remove the selected directory</translation>
+        <translation>Remove selected</translation>
     </message>
 </context>
 <context>
@@ -54,19 +54,19 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="164"/>
         <source>left back</source>
-        <translation>left back button</translation>
+        <translation>left back</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="175"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="378"/>
         <source>shoulder</source>
-        <translation>shoulder button</translation>
+        <translation>shoulder</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="194"/>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="396"/>
         <source>trigger</source>
-        <translation>trigger button</translation>
+        <translation>trigger</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="214"/>
@@ -96,7 +96,7 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="300"/>
         <source>left stick</source>
-        <translation>left analogue stick</translation>
+        <translation>left analogue</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="310"/>
@@ -119,7 +119,7 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="367"/>
         <source>right back</source>
-        <translation>right back button</translation>
+        <translation>right back</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="415"/>
@@ -129,27 +129,27 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="498"/>
         <source>right stick</source>
-        <translation>right analogue stick</translation>
+        <translation>right analogue</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="570"/>
         <source>center</source>
-        <translation>center button</translation>
+        <translation>center</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="579"/>
         <source>select</source>
-        <translation>select button</translation>
+        <translation>select</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="599"/>
         <source>guide</source>
-        <translation>guide button</translation>
+        <translation>guide</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="618"/>
         <source>start</source>
-        <translation>start button</translation>
+        <translation>start</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="714"/>
@@ -162,7 +162,7 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="160"/>
         <source>Ok</source>
-        <translation>O.K.</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkCancelDialog.qml" line="196"/>
@@ -175,7 +175,7 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkDialog.qml" line="136"/>
         <source>Ok</source>
-        <translation>O.K.</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -354,7 +354,7 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="107"/>
         <source>(nothing on this platform)</source>
-        <translation>(there's nothing on this platform</translation>
+        <translation>(there's no data sources on this platform)</translation>
     </message>
 </context>
 <context>
