@@ -354,7 +354,7 @@ in the following directories:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="107"/>
         <source>(nothing on this platform)</source>
-        <translation>(there's no data sources on this platform)</translation>
+        <translation>(there are no data sources on this platform)</translation>
     </message>
 </context>
 <context>
