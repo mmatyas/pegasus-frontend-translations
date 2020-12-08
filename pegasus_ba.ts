@@ -183,7 +183,7 @@ u sljedećim direktorijima:</translation>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="66"/>
         <source>About</source>
-        <translation>O Softveru</translation>
+        <translation>O softveru</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/HelpScreen.qml" line="69"/>
