@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_UK">
+<TS version="2.1" language="en_GB">
 <context>
     <name>FilePicker</name>
     <message>
