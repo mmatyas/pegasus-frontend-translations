@@ -4,24 +4,11 @@
 <context>
     <name>FilePicker</name>
     <message>
-        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="79"/>
+        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="81"/>
         <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
         <translation>Válassz ki egy gyűjtemény-fájlt (metadata.pegasus.txt vagy metadata.txt).
 Ennek a mappája lesz hozzáadva a listához.</translation>
-    </message>
-</context>
-<context>
-    <name>FilterPanel</name>
-    <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="56"/>
-        <source>Filters</source>
-        <translation>Szűrő</translation>
-    </message>
-    <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="74"/>
-        <source>title</source>
-        <translation>cím</translation>
     </message>
 </context>
 <context>
@@ -283,32 +270,37 @@ in the following directories:</source>
 <context>
     <name>MainMenuPanel</name>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="68"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="69"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="79"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="83"/>
         <source>Help</source>
         <translation>Segítség</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="90"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="94"/>
         <source>Quit</source>
         <translation>Kilépés</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="96"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="115"/>
         <source>Shutdown</source>
         <translation>Leállítás</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="105"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="126"/>
+        <source>Suspend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="137"/>
         <source>Reboot</source>
         <translation>Újraindítás</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="112"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="148"/>
         <source>Exit Pegasus</source>
         <translation>Kilépés</translation>
     </message>
@@ -470,14 +462,6 @@ in the following directories:</source>
     </message>
 </context>
 <context>
-    <name>SplashLayer</name>
-    <message>
-        <location filename="../src/frontend/SplashLayer.qml" line="117"/>
-        <source>%1 games found</source>
-        <translation>%1 játék eddig</translation>
-    </message>
-</context>
-<context>
     <name>ThemeError</name>
     <message>
         <location filename="../src/frontend/messages/ThemeError.qml" line="22"/>
@@ -503,7 +487,7 @@ in the following directories:</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="199"/>
+        <location filename="../src/frontend/main.qml" line="208"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>

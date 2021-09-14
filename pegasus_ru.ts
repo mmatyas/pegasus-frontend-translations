@@ -4,34 +4,11 @@
 <context>
     <name>FilePicker</name>
     <message>
-        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="79"/>
+        <location filename="../src/frontend/menu/settings/gamedireditor/FilePicker.qml" line="81"/>
         <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
         <translation>Выберите файл коллекции ниже (metadata.pegasus.txt или metadata.txt).
 Папка с файлом, затем, будет добавлена к списку.</translation>
-    </message>
-</context>
-<context>
-    <name>FilterPanel</name>
-    <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="52"/>
-        <source>Filters</source>
-        <translation>фильтры</translation>
-    </message>
-    <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="63"/>
-        <source>title</source>
-        <translation>название</translation>
-    </message>
-    <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="78"/>
-        <source>Favorite</source>
-        <translation>Избранные</translation>
-    </message>
-    <message>
-        <location filename="../src/themes/pegasus-theme-grid/layer_filter/FilterPanel.qml" line="87"/>
-        <source>Multiplayer</source>
-        <translation>Многопользовательские</translation>
     </message>
 </context>
 <context>
@@ -293,32 +270,37 @@ in the following directories:</source>
 <context>
     <name>MainMenuPanel</name>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="68"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="69"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="79"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="83"/>
         <source>Help</source>
         <translation>Помощь</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="90"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="94"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="96"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="115"/>
         <source>Shutdown</source>
         <translation>Выключить</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="105"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="126"/>
+        <source>Suspend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="137"/>
         <source>Reboot</source>
         <translation>Перезагрузить</translation>
     </message>
     <message>
-        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="112"/>
+        <location filename="../src/frontend/menu/MainMenuPanel.qml" line="148"/>
         <source>Exit Pegasus</source>
         <translation>Закрыть Pegasus</translation>
     </message>
@@ -480,14 +462,6 @@ in the following directories:</source>
     </message>
 </context>
 <context>
-    <name>SplashLayer</name>
-    <message>
-        <location filename="../src/frontend/SplashLayer.qml" line="117"/>
-        <source>%1 games found</source>
-        <translation>Найдено %1 игр</translation>
-    </message>
-</context>
-<context>
     <name>ThemeError</name>
     <message>
         <location filename="../src/frontend/messages/ThemeError.qml" line="22"/>
@@ -513,7 +487,7 @@ in the following directories:</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="../src/frontend/main.qml" line="199"/>
+        <location filename="../src/frontend/main.qml" line="208"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
