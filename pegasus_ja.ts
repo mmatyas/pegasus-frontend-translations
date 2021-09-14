@@ -292,7 +292,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="126"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>スリープ</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="137"/>
