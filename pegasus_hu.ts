@@ -246,7 +246,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorEntry.qml" line="58"/>
         <source>Main menu</source>
-        <translation>Fömenü</translation>
+        <translation>Főmenü</translation>
     </message>
 </context>
 <context>
@@ -292,7 +292,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="126"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Alvó állapot</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="137"/>
@@ -302,7 +302,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/MainMenuPanel.qml" line="148"/>
         <source>Exit Pegasus</source>
-        <translation>Kilépés</translation>
+        <translation>Bezárás</translation>
     </message>
 </context>
 <context>
