@@ -179,14 +179,14 @@ in den folgenden Verzeichnissen:</translation>
         <source>Tilt any axis now to record
 (timeout in %1 seconds)</source>
         <translation>Zum Festlegen eine beliebige Achse neigen
-        (Zeitüberschreitung in %1 Sekunden)</translation>
+(Zeitüberschreitung in %1 Sekunden)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="108"/>
         <source>Press any button now to record
 (timeout in %1 seconds)</source>
         <translation>Zum Festlegen eine beliebige Taste drücken
-        (Zeitüberschreitung in %1 Sekunden)</translation>
+(Zeitüberschreitung in %1 Sekunden)</translation>
     </message>
 </context>
 <context>
