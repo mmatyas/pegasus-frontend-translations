@@ -34,112 +34,112 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="44"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Haut</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="49"/>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Bas</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="54"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Gauche</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="59"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Droite</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="65"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="70"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="75"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="80"/>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="86"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="91"/>
         <source>Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guide</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="96"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Select</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="102"/>
         <source>Left Shoulder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bouton Tranche Gauche</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="107"/>
         <source>Left Trigger</source>
-        <translation type="unfinished"></translation>
+        <translation>Gâchette Gauche</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="112"/>
         <source>Right Shoulder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bouton Tranche Droit</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="117"/>
         <source>Right Trigger</source>
-        <translation type="unfinished"></translation>
+        <translation>Gâchette Droite</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="123"/>
         <source>Left X</source>
-        <translation type="unfinished"></translation>
+        <translation>Stick Gauche Horizontal</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="129"/>
         <source>Left Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Stick Gauche Vertical</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="135"/>
         <source>Left Press</source>
-        <translation type="unfinished"></translation>
+        <translation>Appui Stick Gauche</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="141"/>
         <source>Right X</source>
-        <translation type="unfinished"></translation>
+        <translation>Stick Droit Horizontal</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="147"/>
         <source>Right Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Stick Droit Vertical</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="153"/>
         <source>Right Press</source>
-        <translation type="unfinished"></translation>
+        <translation>Appui Stick Droit</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="178"/>
         <source>Settings / Gamepad Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres / Configuration Manette</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="182"/>
@@ -149,17 +149,17 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="272"/>
         <source>Hat %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Direction %1</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="273"/>
         <source>Button %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bouton %1</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="274"/>
         <source>Axis %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Axe %1</translation>
     </message>
 </context>
 <context>
@@ -167,7 +167,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadFooter.qml" line="58"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Retour</translation>
     </message>
 </context>
 <context>
@@ -176,13 +176,13 @@ in the following directories:</source>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="107"/>
         <source>Tilt any axis now to record
 (timeout in %1 seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinez le stick sur un axe pour l&apos;enregistrer (%1 secondes restantes)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="108"/>
         <source>Press any button now to record
 (timeout in %1 seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Appuyez sur le bouton à enregistrer (%1 secondes restantes)</translation>
     </message>
 </context>
 <context>
@@ -296,8 +296,8 @@ in the following directories:</source>
         <location filename="../src/frontend/menu/settings/keyeditor/KeyEditorRecorder.qml" line="107"/>
         <source>Press any key now to record
 (timeout in %1 seconds)</source>
-        <translation>Veuillez appuyer sur une touche pour l&apos;enregistrer
-(délai d&apos;attente %1 secondes)</translation>
+        <translation>Appuyez sur une touche pour l&apos;enregistrer
+(%1 secondes restantes)</translation>
     </message>
 </context>
 <context>
@@ -333,7 +333,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/mainmenu/MainMenuPanel.qml" line="125"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise En Veille</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/mainmenu/MainMenuPanel.qml" line="136"/>
@@ -451,12 +451,12 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="118"/>
         <source>Only show existing games</source>
-        <translation type="unfinished"></translation>
+        <translation>Montrer seulement les jeux existants</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="119"/>
         <source>Check the game files and only show games that actually exist. You can disable this to improve loading times.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérifie les fichiers de jeu et ne montre que ceux qui existent vraiment. Vous pouvez désactiver cette option pour accélérer les temps de chargement.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="172"/>
