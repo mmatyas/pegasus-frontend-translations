@@ -453,12 +453,12 @@ nos seguintes diretórios:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="118"/>
         <source>Only show existing games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostrar apenas os jogos existentes</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="119"/>
         <source>Check the game files and only show games that actually exist. You can disable this to improve loading times.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Analisa os arquivos do diretório e retorna apenas os jogos existentes. Você pode desabilitar esta opção para diminuir o tempo de carregamento.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="172"/>
