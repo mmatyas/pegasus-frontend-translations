@@ -141,7 +141,7 @@ nos seguintes diretórios:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="178"/>
         <source>Settings / Gamepad Layout</source>
-        <translation type="unfinished">Configurações / Layout do controle</translation>
+        <translation>Configurações / Layout do controle</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="182"/>
