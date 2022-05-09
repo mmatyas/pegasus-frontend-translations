@@ -141,7 +141,7 @@ nos seguintes diretórios:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="178"/>
         <source>Settings / Gamepad Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações / Layout do controle</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="182"/>
@@ -169,7 +169,7 @@ nos seguintes diretórios:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadFooter.qml" line="58"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltar</translation>
     </message>
 </context>
 <context>
@@ -178,13 +178,15 @@ nos seguintes diretórios:</translation>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="107"/>
         <source>Tilt any axis now to record
 (timeout in %1 seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Movimente qualquer eixo para gravar
+(tempo esgota em %1 segundos</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="108"/>
         <source>Press any button now to record
 (timeout in %1 seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperte qualquer tecla para gravar
+(tempo esgota em %1 segundos)</translation>
     </message>
 </context>
 <context>
@@ -335,7 +337,7 @@ nos seguintes diretórios:</translation>
     <message>
         <location filename="../src/frontend/menu/mainmenu/MainMenuPanel.qml" line="125"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspender</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/mainmenu/MainMenuPanel.qml" line="136"/>
@@ -453,12 +455,12 @@ nos seguintes diretórios:</translation>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="118"/>
         <source>Only show existing games</source>
-        <translation type="unfinished">Mostrar apenas os jogos existentes</translation>
+        <translation>Mostrar apenas os jogos existentes</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="119"/>
         <source>Check the game files and only show games that actually exist. You can disable this to improve loading times.</source>
-        <translation type="unfinished">Analisa os arquivos do diretório e retorna apenas os jogos existentes. Você pode desabilitar esta opção para diminuir o tempo de carregamento.</translation>
+        <translation>Analisa os arquivos do diretório e retorna apenas os jogos existentes. Você pode desabilitar esta opção para diminuir o tempo de carregamento.</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="172"/>
