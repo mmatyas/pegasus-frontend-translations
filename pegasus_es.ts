@@ -414,7 +414,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/common/ReloadQuestion.qml" line="22"/>
         <source>Would you like to reload the game list now? This may take some time.</source>
-        <translation>¿Quieres recargar la lista de juego? Puede tardar un rato.</translation>
+        <translation>¿Quieres recargar la lista de juegos? Puede tardar un rato.</translation>
     </message>
 </context>
 <context>
