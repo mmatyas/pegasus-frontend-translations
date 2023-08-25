@@ -204,7 +204,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/dialogs/GenericOkDialog.qml" line="136"/>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>Aceptar</translation>
     </message>
 </context>
 <context>
