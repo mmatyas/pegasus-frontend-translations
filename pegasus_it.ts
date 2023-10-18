@@ -8,7 +8,7 @@
         <source>Select a collection file below (metadata.pegasus.txt or metadata.txt).
 The directory of the file will then be added to the list.</source>
         <translation>Seleziona un file collezione (metadata.pegasus.txt o metadata.txt).
-        La cartella del file sara' aggiunta alla lista.</translation>
+La cartella del file sara' aggiunta alla lista.</translation>
     </message>
 </context>
 <context>
@@ -178,13 +178,15 @@ nelle seguenti cartelle:</translation>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="107"/>
         <source>Tilt any axis now to record
 (timeout in %1 seconds)</source>
-        <translation>Sposta qualsiasi delle assi adesso per registrare (timeout in %1 secondi)</translation>
+        <translation>Sposta qualsiasi delle assi adesso per registrare
+(timeout in %1 secondi)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="108"/>
         <source>Press any button now to record
 (timeout in %1 seconds)</source>
-        <translation>Premi qualsiasi pulsante adesso per registrare (timeout in %1 secondi)</translation>
+        <translation>Premi qualsiasi pulsante adesso per registrare
+(timeout in %1 secondi)</translation>
     </message>
 </context>
 <context>
@@ -366,7 +368,7 @@ nelle seguenti cartelle:</translation>
     <message>
         <location filename="../src/frontend/messages/NoGamesError.qml" line="23"/>
         <source>Pegasus couldn&apos;t find any games on your device. If you have not set up Pegasus yet, you can find the documentation here: &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;If you still see this message, make sure your config files are readable, exist in one of the expected locations and are in the expected format.</source>
-        <translation>Pegasus non trova alcun gioco nella tua periferica. Se non hai impostato ancora Pegasus, puoi trovare la documentazione qui: &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;If you still see this message, make sure your config files are readable, make sure that they are currently located in one of the expected locations and make sure that they are in the expected format.</translation>
+        <translation>Pegasus non trova alcun gioco nella tua periferica. Se non hai impostato ancora Pegasus, puoi trovare la documentazione qui: &lt;i&gt;%1&lt;/i&gt;.&lt;br&gt;Se continui a leggere questo messaggio, assocurati che i tuoi files di configurazione siano leggibili, esistano in una delle posizioni previste e che siano nel corretto formato.</translation>
     </message>
     <message>
         <location filename="../src/frontend/messages/NoGamesError.qml" line="30"/>
