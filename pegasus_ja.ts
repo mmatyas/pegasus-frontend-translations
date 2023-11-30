@@ -18,7 +18,7 @@ The directory of the file will then be added to the list.</source>
         <source>Pegasus will look for collection files (metadata.pegasus.txt or metadata.txt)
 in the following directories:</source>
         <translation>Pegasusは以下の欄のディレクトリに存在するコレクションファイルを参照します(metadata.pegasus.txt
-またはmetadata.txt)。</translation>
+またはmetadata.txt):</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="238"/>
@@ -36,112 +36,112 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="44"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>上</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="49"/>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>下</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="54"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="59"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="65"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="70"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="75"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="80"/>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="86"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>スタート</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="91"/>
         <source>Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>ガイド</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="96"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>セレクト</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="102"/>
         <source>Left Shoulder</source>
-        <translation type="unfinished"></translation>
+        <translation>左バンパー</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="107"/>
         <source>Left Trigger</source>
-        <translation type="unfinished"></translation>
+        <translation>左トリガー</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="112"/>
         <source>Right Shoulder</source>
-        <translation type="unfinished"></translation>
+        <translation>右バンパー</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="117"/>
         <source>Right Trigger</source>
-        <translation type="unfinished"></translation>
+        <translation>右トリガー</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="123"/>
         <source>Left X</source>
-        <translation type="unfinished"></translation>
+        <translation>左スティック X</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="129"/>
         <source>Left Y</source>
-        <translation type="unfinished"></translation>
+        <translation>左スティック Y</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="135"/>
         <source>Left Press</source>
-        <translation type="unfinished"></translation>
+        <translation>左スティックボタン</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="141"/>
         <source>Right X</source>
-        <translation type="unfinished"></translation>
+        <translation>右スティック X</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="147"/>
         <source>Right Y</source>
-        <translation type="unfinished"></translation>
+        <translation>右スティック Y</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="153"/>
         <source>Right Press</source>
-        <translation type="unfinished"></translation>
+        <translation>右スティックボタン</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="178"/>
         <source>Settings / Gamepad Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>設定 / ゲームパッドレイアウト</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="182"/>
@@ -151,17 +151,17 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="272"/>
         <source>Hat %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ハット %1</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="273"/>
         <source>Button %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ボタン %1</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="274"/>
         <source>Axis %1</source>
-        <translation type="unfinished"></translation>
+        <translation>軸 %1</translation>
     </message>
 </context>
 <context>
@@ -169,7 +169,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadFooter.qml" line="58"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>戻る</translation>
     </message>
 </context>
 <context>
@@ -178,13 +178,15 @@ in the following directories:</source>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="107"/>
         <source>Tilt any axis now to record
 (timeout in %1 seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>スティックを傾けて設定
+(%1 秒でタイムアウト)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="108"/>
         <source>Press any button now to record
 (timeout in %1 seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>ボタンを押して設定
+(%1 秒でタイムアウト)</translation>
     </message>
 </context>
 <context>
@@ -228,7 +230,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/help/HelpScreen.qml" line="91"/>
         <source>You can find the documentation and user guide on the following address:</source>
-        <translation>仕様についての詳細とユーザーガイドは次の場所で見つかります。</translation>
+        <translation>仕様についての詳細とユーザーガイドは次の場所で見つかります:</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/help/HelpScreen.qml" line="120"/>
@@ -384,7 +386,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="83"/>
         <source>When looking for games, Pegasus can use the following data sources, if enabled:</source>
-        <translation>ゲームを検索する際、Pegasusは以下のデータソースを使用できます(有効の場合)</translation>
+        <translation>ゲームを検索する際、Pegasusは以下のデータソースを使用できます(有効の場合):</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="107"/>
@@ -453,12 +455,12 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="118"/>
         <source>Only show existing games</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルが存在するゲームのみを表示する</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="119"/>
         <source>Check the game files and only show games that actually exist. You can disable this to improve loading times.</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームファイルをチェックし、実際に存在するゲームのみを表示します。読み込み時間を改善するために無効にすることができます。</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/SettingsMain.qml" line="172"/>
