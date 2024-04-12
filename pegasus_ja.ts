@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="ja_JP">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ja">
 <context>
     <name>FilePicker</name>
     <message>
@@ -18,7 +16,7 @@ The directory of the file will then be added to the list.</source>
         <source>Pegasus will look for collection files (metadata.pegasus.txt or metadata.txt)
 in the following directories:</source>
         <translation>Pegasusは以下の欄のディレクトリに存在するコレクションファイルを参照します(metadata.pegasus.txt
-またはmetadata.txt):</translation>
+またはmetadata.txt)。</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GameDirEditor.qml" line="238"/>
@@ -76,7 +74,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="86"/>
         <source>Start</source>
-        <translation>スタート</translation>
+        <translation>START</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="91"/>
@@ -86,7 +84,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="96"/>
         <source>Select</source>
-        <translation>セレクト</translation>
+        <translation>SELECT</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/GamepadEditor.qml" line="102"/>
@@ -178,7 +176,7 @@ in the following directories:</source>
         <location filename="../src/frontend/menu/settings/gamepad/GamepadRecorder.qml" line="107"/>
         <source>Tilt any axis now to record
 (timeout in %1 seconds)</source>
-        <translation>スティックを傾けて設定
+        <translation>軸を傾けて設定
 (%1 秒でタイムアウト)</translation>
     </message>
     <message>
@@ -230,7 +228,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/help/HelpScreen.qml" line="91"/>
         <source>You can find the documentation and user guide on the following address:</source>
-        <translation>仕様についての詳細とユーザーガイドは次の場所で見つかります:</translation>
+        <translation>仕様についての詳細とユーザーガイドは次の場所で見つかります。</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/help/HelpScreen.qml" line="120"/>
@@ -386,7 +384,7 @@ in the following directories:</source>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="83"/>
         <source>When looking for games, Pegasus can use the following data sources, if enabled:</source>
-        <translation>ゲームを検索する際、Pegasusは以下のデータソースを使用できます(有効の場合):</translation>
+        <translation>ゲームを検索する際、Pegasusは以下のデータソースを使用できます(有効の場合)</translation>
     </message>
     <message>
         <location filename="../src/frontend/menu/settings/ProviderEditor.qml" line="107"/>
